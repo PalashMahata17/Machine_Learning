@@ -1,3 +1,4 @@
+# STREAMLIT GITHUB LINK: https://github.com/PalashMahata17/Streamlit_ML/tree/main
 
 # OBJECTIVE:
 This is my MML project on the topic food wastage redistribution network. Basically the idea is that lots of food are getting wasted and thrown away everyday in dustbin in any occasion ,birthday party, corporate party and those food are literally dumped at a place creating many problems like:-
